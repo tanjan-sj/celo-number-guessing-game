@@ -1,0 +1,19 @@
+{
+  "name": "celo-number-guessing-game",
+  "version": "1.0.0",
+  "description": "implementing a number guessing game in solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanjan-sj/celo-number-guessing-game.git"
+  },
+  "author": "Umme Sumaya Jannat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanjan-sj/celo-number-guessing-game/issues"
+  },
+  "homepage": "https://github.com/tanjan-sj/celo-number-guessing-game#readme"
+}
