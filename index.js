@@ -24,7 +24,7 @@ let instance = new kit.web3.eth.Contract(
 console.log("methods: ", instance.methods);
 
 const setNumber = async (number) => {
-    let result = await instance.methods.setNumber(43).send({from: account.address});
+    let result = await instance.methods.setNumber(number).send({from: account.address});
     console.log(result)
 }
 
